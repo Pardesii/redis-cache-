@@ -11,9 +11,10 @@ data in Redis under the key **users** and the cache is valid for 60 seconds. Now
 
 There is drastic difference in the response time of these two routes!!
 
+### Response time **306 ms**
 ![Screenshot 2021-09-10 at 11 36 27 AM](https://user-images.githubusercontent.com/86518676/132807706-ad25d82e-ce6a-4339-8833-6cd9f512c510.png)
 
-
+### Response time **9 ms**
 ![Screenshot 2021-09-10 at 11 37 00 AM](https://user-images.githubusercontent.com/86518676/132807729-fbe90a81-524d-41bd-9130-21c304b4bf91.png)
 
 ## Learning Outcomes
